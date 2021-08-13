@@ -27,7 +27,7 @@ onload = function () {
                 face: 'FontAwesome',
                 code: '\uf183',
                 size: 50,  //50,
-                color: '#991133',
+                color: '#3b916e',
             }
         }
     };
